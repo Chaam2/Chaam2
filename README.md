@@ -1,5 +1,6 @@
 ### Hi 👋
 ![profile](https://i.pinimg.com/564x/50/9f/9f/509f9fd84bad8297a5511cd02e300389.jpg)
+<img src="https://i.pinimg.com/564x/50/9f/9f/509f9fd84bad8297a5511cd02e300389.jpg" width="300px">
 
 <!--
 **Chaam2/Chaam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
